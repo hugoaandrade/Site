@@ -90,7 +90,7 @@ export const translations = {
         {
           empresa: "Análise e Desenvolvimento de Sistemas",
           cargo: "Graduação",
-          periodo: "2020 — 2023",
+          periodo: "2019 — 2021",
           descricao:
             "Formação técnica com base em programação, banco de dados, redes de computadores e engenharia de software.",
           tags: ["ADS", "Graduação"],
