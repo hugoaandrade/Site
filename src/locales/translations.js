@@ -70,21 +70,21 @@ export const translations = {
         {
           empresa: "WideCommerce",
           cargo: "Desenvolvedor Full Stack",
-          periodo: "2022 — presente",
+          periodo: "2023 — presente",
           descricao:
-            "Desenvolvimento e manutenção de e-commerces e plataformas digitais. Atuação com Magento, WooCommerce e WordPress, além de infraestrutura com Docker e Linux. Entre os clientes atendidos: Dumond, Kikos, Lightning Bolt, Redelease e Shopping Eldorado.",
-          tags: ["PHP", "Magento", "Node.js", "Docker", "Linux", "MySQL"],
-          link: "https://widecommerce.com.br/",
+            "Desenvolvimento e manutenção de e-commerces baseados em Magento e WooCommerce, com foco em performance, usabilidade e escalabilidade. Atuação em projetos para grandes varejistas, implementando temas personalizados, módulos sob demanda e integrações com gateways de pagamento e ERPs. Trabalho em squads ágeis utilizando PHP, JavaScript (jQuery), Bootstrap, AJAX e Docker, com versionamento via Git e pipelines de CI/CD.",
+          tags: ["PHP", "Magento", "WooCommerce", "jQuery", "Docker", "MySQL"],
+          link: null,
           atual: true,
         },
         {
           empresa: "Hubsell",
-          cargo: "Desenvolvedor Web",
-          periodo: "2021 — 2022",
+          cargo: "Desenvolvedor Front End",
+          periodo: "2021 — 2023",
           descricao:
-            "Participação no desenvolvimento de sites e e-commerces personalizados, com foco em performance, usabilidade e experiência do usuário.",
-          tags: ["WordPress", "WooCommerce", "PHP", "JavaScript"],
-          link: "https://www.hubsell.com.br/",
+            "Desenvolvimento de interfaces responsivas e landing pages otimizadas para conversão, a partir de layouts fornecidos por designers. Atuação em projetos de automação de prospecção B2B e ferramentas de outreach, utilizando JavaScript, React, CSS e Node.js. Também participei da manutenção da plataforma interna, suporte técnico e melhorias contínuas com foco na experiência do usuário.",
+          tags: ["JavaScript", "React", "Node.js", "CSS"],
+          link: null,
           atual: false,
         },
         {
@@ -209,21 +209,21 @@ export const translations = {
         {
           empresa: "WideCommerce",
           cargo: "Full Stack Developer",
-          periodo: "2022 — present",
+          periodo: "2023 — present",
           descricao:
-            "Development and maintenance of e-commerces and digital platforms. Working with Magento, WooCommerce, and WordPress, plus infrastructure with Docker and Linux. Clients include: Dumond, Kikos, Lightning Bolt, Redelease, and Shopping Eldorado.",
-          tags: ["PHP", "Magento", "Node.js", "Docker", "Linux", "MySQL"],
-          link: "https://widecommerce.com.br/",
+            "Development and maintenance of Magento and WooCommerce e-commerces, focused on performance, usability, and scalability. Working on projects for large retailers, implementing custom themes, on-demand modules, and integrations with payment gateways and ERPs. Working in agile squads using PHP, JavaScript (jQuery), Bootstrap, AJAX, and Docker, with version control via Git and CI/CD pipelines.",
+          tags: ["PHP", "Magento", "WooCommerce", "jQuery", "Docker", "MySQL"],
+          link: null,
           atual: true,
         },
         {
           empresa: "Hubsell",
-          cargo: "Web Developer",
-          periodo: "2021 — 2022",
+          cargo: "Front End Developer",
+          periodo: "2021 — 2023",
           descricao:
-            "Participation in developing custom websites and e-commerces, focused on performance, usability, and user experience.",
-          tags: ["WordPress", "WooCommerce", "PHP", "JavaScript"],
-          link: "https://www.hubsell.com.br/",
+            "Development of responsive interfaces and conversion-optimized landing pages, based on designer-provided layouts. Working on B2B prospecting automation and outreach tools using JavaScript, React, CSS, and Node.js. I also contributed to internal platform maintenance, technical support, and continuous improvements focused on user experience.",
+          tags: ["JavaScript", "React", "Node.js", "CSS"],
+          link: null,
           atual: false,
         },
         {
