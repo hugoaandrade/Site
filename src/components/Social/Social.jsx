@@ -22,7 +22,7 @@ const Social = () => {
           </a>
         </li>
         {/* <li>
-          <a target="_blank" href="https://github.com/HugoAAndrade">
+          <a target="_blank" href="https://github.com/hugoaandrade">
             GitHub
           </a>
         </li> */}
@@ -70,7 +70,7 @@ const Social = () => {
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://github.com/HugoAAndrade">
+          <a target="_blank" href="https://github.com/hugoaandrade">
             GitHub
             <svg
               width="32"
